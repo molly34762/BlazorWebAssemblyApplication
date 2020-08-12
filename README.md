@@ -1,0 +1,1 @@
+# Simple-Blazor-WebAssembly-Application
